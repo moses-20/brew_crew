@@ -1,16 +1,12 @@
-# brew_crew
+# Brew Crew
 
-A new Flutter project.
+Brew Crew is a simple Flutter app built with Firebase as backend. The main focus of the app is to experiment Firebase backend features with Flutter.
 
-## Getting Started
+## How to run the app locally
 
-This project is a starting point for a Flutter application.
+1. `git clone https://github.com/moses-20/brew_crew`
+2. `flutter pub get`
+3. Make sure you have an android device connected with USB debugging enabled
+4. Press F5 on your keyboard or do `flutter run` in the terminal
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Don't forget to leave a star 😉
